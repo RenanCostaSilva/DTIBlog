@@ -9,7 +9,12 @@ Este aplicativo pode bastante melhorando ainda  mas funciona normal. Antes de ex
 Usuario: admin
 senha: 123456
 
+#Compose
+Foi informado que o uso geraria mais pontos mas infelizmente não tive temppo de implementar e não tenho conhecimento suficiente
+para usar hoje.
 
+## Excluir Postagem
+Não foi pedido a implementação mas apliquei a funcionalidade no aplicativo , e funciona normal
 
 ## Imagens da Aplicação
 ![mobile 1](https://github.com/RenanCostaSilva/DTIBlog/blob/main/1.png)
