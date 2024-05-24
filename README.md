@@ -1,5 +1,5 @@
-# AvenueCode
-[![NPM](https://github.com/RenanCostaSilva/AvenueCodeEventos/blob/master/LICENSE)
+# DTIBlog
+[![NPM](https://github.com/RenanCostaSilva/DTIBlog/blob/master/LICENSE)
 
 # Sobre o aplicativo
 Teste Prático para Dti , de Postagem de artigos em blog. Este aplicativo Faz consumo de uma Api , acessando o localhost:8080 ou  pode ser acessador pelo ip e a porta 
