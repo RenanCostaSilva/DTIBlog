@@ -19,6 +19,7 @@ senha: 123456
 ![mobile 5](https://github.com/RenanCostaSilva/DTIBlog/blob/main/5.png)
 ![mobile 6](https://github.com/RenanCostaSilva/DTIBlog/blob/main/6.png)
 ![mobile 7](https://github.com/RenanCostaSilva/DTIBlog/blob/main/7.png)
+![mobile 8](https://github.com/RenanCostaSilva/DTIBlog/blob/main/8.png)
 
 # Java
  Gradle 8 = Java JDK 8  - configurado com Java Jdk 17
