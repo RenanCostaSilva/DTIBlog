@@ -10,6 +10,7 @@ Usuario: admin
 senha: 123456
 
 
+
 ## Imagens da Aplicação
 ![mobile 1](https://github.com/RenanCostaSilva/DTIBlog/blob/main/1.png)
 ![mobile 2](https://github.com/RenanCostaSilva/DTIBlog/blob/main/1a.png)
@@ -45,6 +46,9 @@ minSdk: 25 / alvo: 35
 
 ## Teste
 Testado no emulador
+
+# Teste Automatizados
+Espresso - foi feito alguns teste não todos necessários.
 
 ## Sistema Operacional
 MacOS Sonoma 14.05
