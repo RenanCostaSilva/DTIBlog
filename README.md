@@ -57,8 +57,7 @@ Testado no emulador
 Espresso - foi feito alguns teste não todos necessários.
 
 ## Sistema Operacional
-MacOS Sonoma 14.05
-Windows 11
+MacOS Sonoma 14.05 - Windows 11 ( Commit no GitHub)
 
 # Autor
 Renan Costa e Silva
