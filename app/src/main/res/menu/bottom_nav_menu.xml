@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_listar"
+        android:icon="@drawable/ic_list_white"
+        android:title="@string/title_listar" />
+
+    <item
+        android:id="@+id/navigation_criar"
+        android:icon="@drawable/ic_create_white"
+        android:title="@string/title_criar" />
+
+    <item
+        android:id="@+id/navigation_excluir"
+        android:icon="@drawable/ic_delete_white"
+        android:title="@string/title_excluir" />
+
+</menu>

@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">DtiBlog</string>
+    <string name="title_listar">Listar</string>
+    <string name="title_criar">Criar</string>
+    <string name="title_excluir">Excluir</string>
+
+    <string name="post_titulo">Titulo Postagem</string>
+    <string name="post_data">01/01/2024</string>
+    <string name="post_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Sed in nunc vitae mi aliquam ornare. Curabitur et ipsum quam. Nunc laoreet quis
+        ipsum ultricies pellentesque. Mauris sit amet nulla et mi lobortis maximus.
+        Nunc posuere vulputate tortor eu tempus. Nunc eget velit tortor.
+        Vivamus elementum pulvinar arcu, non maximus quam blandit vel.
+        Etiam lacinia magna at velit iaculis porta.</string>
+
+    <string name="post_detalhe_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Sed in nunc vitae mi aliquam ornare. Curabitur et ipsum quam. Nunc laoreet quis
+        ipsum ultricies pellentesque. Mauris sit amet nulla et mi lobortis maximus.
+        Nunc posuere vulputate tortor eu tempus. Nunc eget velit tortor.
+        Vivamus elementum pulvinar arcu, non maximus quam blandit vel.
+        Etiam lacinia magna at velit iaculis porta.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Sed in nunc vitae mi aliquam ornare. Curabitur et ipsum quam. Nunc laoreet quis
+        ipsum ultricies pellentesque. Mauris sit amet nulla et mi lobortis maximus.
+        Nunc posuere vulputate tortor eu tempus. Nunc eget velit tortor.
+        Vivamus elementum pulvinar arcu, non maximus quam blandit vel.
+        Etiam lacinia magna at velit iaculis porta.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Sed in nunc vitae mi aliquam ornare. Curabitur et ipsum quam. Nunc laoreet quis
+        ipsum ultricies pellentesque. Mauris sit amet nulla et mi lobortis maximus.
+        Nunc posuere vulputate tortor eu tempus. Nunc eget velit tortor.
+        Vivamus elementum pulvinar arcu, non maximus quam blandit vel.
+        Etiam lacinia magna at velit iaculis porta.
+    </string>
+
+
+    <!-- alert -->
+    <string name="textview_dialog_msg_excluir">Deseja realmente excluir\neste post ?</string>
+
+
+    <!-- button -->
+    <string name="button_criar_post">Adcionar Post!</string>
+    <string name="button_voltar">Voltar</string>
+    <string name="button_deletar_post">Excluir Post!</string>
+    <string name="button_novo_post">Novo Post!</string>
+
+    <string name="btn_dialog_msg_excluir_ok">OK</string>
+    <string name="btn_dialog_msg_excluir_cancel">Cancel</string>
+
+    <string name="btn_excluir">Excluir</string>
+    <string name="btn_cancelar">Cancelar</string>
+
+    <!-- Criar -->
+    <string name="criar_post_hint_titulo">Insira um título para o post</string>
+    <string name="criar_post_hint_texto">Adicione aqui o texto do post</string>
+
+    <!-- Listar -->
+    <string name="tv_listar_detalhe_titulo">Adcionar Post!</string>
+    <string name="tv_listar_detalhe_data">Adcionar Post!</string>
+    <string name="tv_listar_detalhe_texto">Adcionar Post!</string>
+
+    <!-- Textview -->
+    <string name="tv_titulo">Título</string>
+    <string name="tv_data">Data</string>
+    <string name="tv_descricao">Descrição</string>
+
+    <string name="tv_titulo_detalhe">Detalhe da Postagem</string>
+    <string name="tv_titulo_criar_post">Criar Post</string>Nenhuma postagem encontrada !
+    <string name="tv_titulo_nenhuma_postagem">Nenhuma postagem encontrada !</string>
+    <string name="tv_titulo_Postagens_encontradas">Postagens Encontradas</string>
+
+    <!-- Imageview -->
+    <string name="img_content_description">descrição da imagem</string>
+
+    <!-- Excluir -->
+
+</resources>

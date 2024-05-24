@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_listar">
+
+    <fragment
+        android:id="@+id/navigation_listar"
+        android:name="br.com.renancsdev.dtiblog.ui.listar.fragment.ListarFragment"
+        android:label="@string/title_listar"
+        tools:layout="@layout/fragment_listar" />
+
+    <fragment
+        android:id="@+id/navigation_criar"
+        android:name="br.com.renancsdev.dtiblog.ui.criar.CriarFragment"
+        android:label="@string/title_criar"
+        tools:layout="@layout/fragment_criar" />
+
+    <fragment
+        android:id="@+id/navigation_excluir"
+        android:name="br.com.renancsdev.dtiblog.ui.excluir.ExcluirFragment"
+        android:label="@string/title_excluir"
+        tools:layout="@layout/fragment_excluir" />
+</navigation>
