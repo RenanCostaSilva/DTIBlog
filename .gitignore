@@ -1,0 +1,34 @@
+# Arquivos de build e saídas do Gradle
+build/
+.gradle/
+captures/
+**/build/
+**/externalNativeBuild/
+
+# Configurações do Android Studio e IntelliJ (Locais)
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/assetWizardSettings.xml
+.idea/dictionaries
+.idea/libraries
+.idea/caches
+.idea/navEditor.xml
+*.iml
+
+# Arquivos gerados pelo dispositivo / Emulador
+*.apk
+*.apks
+*.aab
+
+# Chaves de assinatura e segredos (MUITO IMPORTANTE)
+*.jks
+*.keystore
+*.pk8
+*.pem
+local.properties
+
+# Logs e arquivos de sistema
+*.log
+.DS_Store
+Thumbs.db
